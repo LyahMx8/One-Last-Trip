@@ -15,6 +15,7 @@ public class EnemySpawner : MonoBehaviour{
 	public float height = 5f;
 	public string nextLvl;
 
+
 	bool AllMembersAreDead(){
 		foreach(Transform position in transform){
 			if(position.childCount > 0)

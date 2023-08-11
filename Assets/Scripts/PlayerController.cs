@@ -36,6 +36,7 @@ public class PlayerController : MonoBehaviour{
 		ymax=camera.ViewportToWorldPoint(new Vector3(1,1,distance)).y-padding;
 	}
 
+
 	void Update(){
 		if(Input.GetKeyDown(KeyCode.Space)){
 			gameObject.layer = LayerMask.NameToLayer("playerUnder");
