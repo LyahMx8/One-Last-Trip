@@ -1,52 +1,138 @@
 fileFormatVersion: 2
 guid: 6c72d071232911a4aa5b289eceac28d0
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: Barcos-y-fondo_0
-    21300002: Barcos-y-fondo_1
-    21300004: Barcos-y-fondo_2
-    21300006: Barcos-y-fondo_3
-    21300008: Barcos-y-fondo_4
-    21300010: Barcos-y-fondo_5
-    21300012: Barcos-y-fondo_6
-    21300014: Barcos-y-fondo_7
-    21300016: Barcos-y-fondo_8
-    21300018: Barcos-y-fondo_9
-    21300020: Barcos-y-fondo_10
-    21300022: Barcos-y-fondo_11
-    21300024: Barcos-y-fondo_12
-    21300026: Barcos-y-fondo_13
-    21300028: Barcos-y-fondo_14
-    21300030: Barcos-y-fondo_15
-    21300032: Barcos-y-fondo_16
-    21300034: Barcos-y-fondo_17
-    21300036: Barcos-y-fondo_18
-    21300038: Barcos-y-fondo_19
-    21300040: Barcos-y-fondo_20
-    21300042: Barcos-y-fondo_21
-    21300044: Barcos-y-fondo_22
-    21300046: Barcos-y-fondo_23
-    21300048: Barcos-y-fondo_24
-    21300050: Barcos-y-fondo_25
-    21300052: Barcos-y-fondo_26
-    21300054: Barcos-y-fondo_27
-    21300056: Barcos-y-fondo_28
-    21300058: Barcos-y-fondo_29
-    21300060: Barcos-y-fondo_30
-    21300062: Barcos-y-fondo_31
-    21300064: Barcos-y-fondo_32
-    21300066: Barcos-y-fondo_33
-    21300068: Barcos-y-fondo_34
-    21300070: Barcos-y-fondo_35
-    21300072: Barcos-y-fondo_36
-    21300074: Barcos-y-fondo_37
-    21300076: Barcos-y-fondo_38
-    21300078: Barcos-y-fondo_39
-    21300080: Barcos-y-fondo_40
-    21300082: Barcos-y-fondo_41
-    21300084: Barcos-y-fondo_42
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Barcos-y-fondo_0
+  - first:
+      213: 21300002
+    second: Barcos-y-fondo_1
+  - first:
+      213: 21300004
+    second: Barcos-y-fondo_2
+  - first:
+      213: 21300006
+    second: Barcos-y-fondo_3
+  - first:
+      213: 21300008
+    second: Barcos-y-fondo_4
+  - first:
+      213: 21300010
+    second: Barcos-y-fondo_5
+  - first:
+      213: 21300012
+    second: Barcos-y-fondo_6
+  - first:
+      213: 21300014
+    second: Barcos-y-fondo_7
+  - first:
+      213: 21300016
+    second: Barcos-y-fondo_8
+  - first:
+      213: 21300018
+    second: Barcos-y-fondo_9
+  - first:
+      213: 21300020
+    second: Barcos-y-fondo_10
+  - first:
+      213: 21300022
+    second: Barcos-y-fondo_11
+  - first:
+      213: 21300024
+    second: Barcos-y-fondo_12
+  - first:
+      213: 21300026
+    second: Barcos-y-fondo_13
+  - first:
+      213: 21300028
+    second: Barcos-y-fondo_14
+  - first:
+      213: 21300030
+    second: Barcos-y-fondo_15
+  - first:
+      213: 21300032
+    second: Barcos-y-fondo_16
+  - first:
+      213: 21300034
+    second: Barcos-y-fondo_17
+  - first:
+      213: 21300036
+    second: Barcos-y-fondo_18
+  - first:
+      213: 21300038
+    second: Barcos-y-fondo_19
+  - first:
+      213: 21300040
+    second: Barcos-y-fondo_20
+  - first:
+      213: 21300042
+    second: Barcos-y-fondo_21
+  - first:
+      213: 21300044
+    second: Barcos-y-fondo_22
+  - first:
+      213: 21300046
+    second: Barcos-y-fondo_23
+  - first:
+      213: 21300048
+    second: Barcos-y-fondo_24
+  - first:
+      213: 21300050
+    second: Barcos-y-fondo_25
+  - first:
+      213: 21300052
+    second: Barcos-y-fondo_26
+  - first:
+      213: 21300054
+    second: Barcos-y-fondo_27
+  - first:
+      213: 21300056
+    second: Barcos-y-fondo_28
+  - first:
+      213: 21300058
+    second: Barcos-y-fondo_29
+  - first:
+      213: 21300060
+    second: Barcos-y-fondo_30
+  - first:
+      213: 21300062
+    second: Barcos-y-fondo_31
+  - first:
+      213: 21300064
+    second: Barcos-y-fondo_32
+  - first:
+      213: 21300066
+    second: Barcos-y-fondo_33
+  - first:
+      213: 21300068
+    second: Barcos-y-fondo_34
+  - first:
+      213: 21300070
+    second: Barcos-y-fondo_35
+  - first:
+      213: 21300072
+    second: Barcos-y-fondo_36
+  - first:
+      213: 21300074
+    second: Barcos-y-fondo_37
+  - first:
+      213: 21300076
+    second: Barcos-y-fondo_38
+  - first:
+      213: 21300078
+    second: Barcos-y-fondo_39
+  - first:
+      213: 21300080
+    second: Barcos-y-fondo_40
+  - first:
+      213: 21300082
+    second: Barcos-y-fondo_41
+  - first:
+      213: 21300084
+    second: Barcos-y-fondo_42
   externalObjects: {}
-  serializedVersion: 7
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -63,9 +149,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -74,9 +163,9 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -97,11 +186,17 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 2
+  - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -111,8 +206,10 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -122,7 +219,35 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -142,6 +267,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c8c0d8aa36345d946ae7e524db01d7a1
+      internalID: 21300000
       vertices: []
       indices: 
       edges: []
@@ -162,6 +288,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 973d4ac59025a1347bb92ddc1f4adefc
+      internalID: 21300002
       vertices: []
       indices: 
       edges: []
@@ -182,6 +309,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f7c7e460d7faba64bbd0c5ca7f63b335
+      internalID: 21300004
       vertices: []
       indices: 
       edges: []
@@ -202,6 +330,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ee2067a05c85b304a9eabfbb67e77033
+      internalID: 21300006
       vertices: []
       indices: 
       edges: []
@@ -222,6 +351,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8568d6e1e7ecdeb46b0c86249739b89c
+      internalID: 21300008
       vertices: []
       indices: 
       edges: []
@@ -242,6 +372,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5eb10c509d470f2499fe17564f9be333
+      internalID: 21300010
       vertices: []
       indices: 
       edges: []
@@ -262,6 +393,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5076199277e367d48b1acbc054da8a30
+      internalID: 21300012
       vertices: []
       indices: 
       edges: []
@@ -282,6 +414,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 26a245d8c44a7c64d8da29c7970d927c
+      internalID: 21300014
       vertices: []
       indices: 
       edges: []
@@ -302,6 +435,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 38a44fa7770d2b545a0f01a0831f5a6e
+      internalID: 21300016
       vertices: []
       indices: 
       edges: []
@@ -322,6 +456,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 394575c4f3489744aa9de5a1b44c0908
+      internalID: 21300018
       vertices: []
       indices: 
       edges: []
@@ -342,6 +477,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 42881d76c3f55234baacf86f6e0d5c85
+      internalID: 21300020
       vertices: []
       indices: 
       edges: []
@@ -362,6 +498,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: efa72e1857289f542ac16c2d77ac4bbf
+      internalID: 21300022
       vertices: []
       indices: 
       edges: []
@@ -382,6 +519,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 40fc7113502488542964d864be529a27
+      internalID: 21300024
       vertices: []
       indices: 
       edges: []
@@ -402,6 +540,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: b5a6ccf158cd0b44990eeb8a39f9147c
+      internalID: 21300026
       vertices: []
       indices: 
       edges: []
@@ -422,6 +561,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 66b9662680fada84188b1f71344a9d3f
+      internalID: 21300028
       vertices: []
       indices: 
       edges: []
@@ -442,6 +582,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ba92e1dd5784d0b429c6becf611cff22
+      internalID: 21300030
       vertices: []
       indices: 
       edges: []
@@ -462,6 +603,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c6c083946ca815e4a95ebf593a41d13e
+      internalID: 21300032
       vertices: []
       indices: 
       edges: []
@@ -482,6 +624,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 406492b6ac367174f862c90542ab2dbc
+      internalID: 21300034
       vertices: []
       indices: 
       edges: []
@@ -502,6 +645,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: a42b3146d9d5f604a9929706fe507f3f
+      internalID: 21300036
       vertices: []
       indices: 
       edges: []
@@ -522,6 +666,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 18deebc417ba5974c9e82c6c4e60b8ba
+      internalID: 21300038
       vertices: []
       indices: 
       edges: []
@@ -542,6 +687,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d7dd231f809e82940bf46442d88228cc
+      internalID: 21300040
       vertices: []
       indices: 
       edges: []
@@ -562,6 +708,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1850cf2170076fa4186de356b14587bf
+      internalID: 21300042
       vertices: []
       indices: 
       edges: []
@@ -582,6 +729,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4eb9c7e1733ca2843a3ea377a79324f2
+      internalID: 21300044
       vertices: []
       indices: 
       edges: []
@@ -602,6 +750,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 8363260a59cf7764ea11238f4a6cbed3
+      internalID: 21300046
       vertices: []
       indices: 
       edges: []
@@ -622,6 +771,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 84cfdb3b2e355be4499c4abfc3a2510f
+      internalID: 21300048
       vertices: []
       indices: 
       edges: []
@@ -642,6 +792,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 19643d003692e1e4cba3c7a5822107ad
+      internalID: 21300050
       vertices: []
       indices: 
       edges: []
@@ -662,6 +813,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5959d9a18d655814887c833d48431796
+      internalID: 21300052
       vertices: []
       indices: 
       edges: []
@@ -682,6 +834,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 520f2af32b2845b4b96872b9d00eb02d
+      internalID: 21300054
       vertices: []
       indices: 
       edges: []
@@ -702,6 +855,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: da42bfdf871cc624f867e885618e6349
+      internalID: 21300056
       vertices: []
       indices: 
       edges: []
@@ -722,6 +876,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 11be4a1b28766cb43a9772e23b5cfde3
+      internalID: 21300058
       vertices: []
       indices: 
       edges: []
@@ -742,6 +897,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 0deae772f5569ad43b9e0f962cb514df
+      internalID: 21300060
       vertices: []
       indices: 
       edges: []
@@ -750,13 +906,46 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: c3bffcf12fd2af044974b5323d69b5fa
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
-  spritePackingTag: 
+    secondaryTextures: []
+    nameFileIdTable:
+      Barcos-y-fondo_0: 21300000
+      Barcos-y-fondo_1: 21300002
+      Barcos-y-fondo_10: 21300020
+      Barcos-y-fondo_11: 21300022
+      Barcos-y-fondo_12: 21300024
+      Barcos-y-fondo_13: 21300026
+      Barcos-y-fondo_14: 21300028
+      Barcos-y-fondo_15: 21300030
+      Barcos-y-fondo_16: 21300032
+      Barcos-y-fondo_17: 21300034
+      Barcos-y-fondo_18: 21300036
+      Barcos-y-fondo_19: 21300038
+      Barcos-y-fondo_2: 21300004
+      Barcos-y-fondo_20: 21300040
+      Barcos-y-fondo_21: 21300042
+      Barcos-y-fondo_22: 21300044
+      Barcos-y-fondo_23: 21300046
+      Barcos-y-fondo_24: 21300048
+      Barcos-y-fondo_25: 21300050
+      Barcos-y-fondo_26: 21300052
+      Barcos-y-fondo_27: 21300054
+      Barcos-y-fondo_28: 21300056
+      Barcos-y-fondo_29: 21300058
+      Barcos-y-fondo_3: 21300006
+      Barcos-y-fondo_30: 21300060
+      Barcos-y-fondo_4: 21300008
+      Barcos-y-fondo_5: 21300010
+      Barcos-y-fondo_6: 21300012
+      Barcos-y-fondo_7: 21300014
+      Barcos-y-fondo_8: 21300016
+      Barcos-y-fondo_9: 21300018
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
